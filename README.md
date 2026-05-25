@@ -2,7 +2,6 @@
 
 ### Cybersecurity Enthusiast | SOC Analyst | Web Security | Linux
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZONNYXXD&label=Profile views&color=0e75b6&style=flat" alt="ZONNYXXD" /> </p>
 
 - 🔭 I'm currently working on ** Developing security tools and mentoring students at Red Team Hacker Academy through workshops, CTFs, and cybersecurity training.**
 
