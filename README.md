@@ -1,17 +1,3 @@
-<!--
-  ============================================================================
-  ZYNCRIPTA — GITHUB PROFILE README
-  Rename this file to README.md inside a repo named exactly "ZONNYXXD"
-  (a repo matching your username is what GitHub renders on your profile page).
-
-  Placeholders to replace before pushing:
-    YOUR-LINKEDIN-URL · YOUR-X-HANDLE · YOUR-INSTAGRAM-HANDLE
-    YOUR-THM-URL · YOUR-HTB-URL · YOUR-MEDIUM-HANDLE · YOUR-EMAIL
-  The snake graph near the bottom needs a one-time GitHub Action —
-  instructions are in the collapsible section, don't skip it.
-  ============================================================================
--->
-
 <div align="center">
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FZONNYXXD">
@@ -44,9 +30,9 @@
 
 <br/>
 
-## 🩸 About Zonny
+## 🩸 ABOUT ME
 
-I'm **Zonny Silvera**, known across the underground and the reports I file as **Zyncripta**. I don't sit neatly on one side of the hat spectrum — I think like an attacker so the fix I hand back actually holds.
+I'm **Sony Silvera**, known across the underground and the reports I file as **Zyncripta**. I don't sit neatly on one side of the hat spectrum — I think like an attacker so the fix I hand back actually holds.
 
 - 🔧 **VPD Programmer** — I build and script the tooling behind my own assessments instead of relying only on off-the-shelf frameworks
 - 🔩 **Hardware Hacker** — if it has a chip, a bus, or a firmware blob, I want to know what it's not telling you
@@ -100,13 +86,12 @@ I'm **Zonny Silvera**, known across the underground and the reports I file as **
 
 ![APK Tool](https://img.shields.io/badge/APK%20Tool-0d0d0d?style=for-the-badge&logo=android&logoColor=DA2828)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=DA2828)
-![YARA](https://img.shields.io/badge/YARA-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🎮 Game Security & Anti-Cheat Research**
 
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Ocean AntiCheat](https://img.shields.io/badge/Ocean%20AntiCheat-0d0d0d?style=for-the-badge&logoColor=DA2828)
-![Detect It Easy](https://img.shields.io/badge/Detect%20It%20Easy-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![Detect AC](https://img.shields.io/badge/Detect%20It%20Easy-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![YARA](https://img.shields.io/badge/YARA-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🔩 Hardware & Firmware**
