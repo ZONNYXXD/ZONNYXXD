@@ -134,12 +134,11 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 **📝 Bug Bounty & Reporting**
 
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=DA2828)
-![HackerOne](https://img.shields.io/badge/HackerOne-0d0d0d?style=for-the-badge&logo=hackerone&logoColor=DA2828)
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=DA2828)
-![Medium](https://img.shields.io/badge/Medium%20Writeups-0d0d0d?style=for-the-badge&logo=medium&logoColor=DA2828)
 ![Obsidian](https://img.shields.io/badge/Obsidian-0d0d0d?style=for-the-badge&logo=obsidian&logoColor=DA2828)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-0d0d0d?style=for-the-badge&logo=github&logoColor=DA2828)
-
+[![HackerOne](https://img.shields.io/badge/HackerOne-0d0d0d?style=for-the-badge&logo=hackerone&logoColor=DA2828)](https://hackerone.com/YOUR-H1-HANDLE)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=DA2828)](https://bugcrowd.com/YOUR-BUGCROWD-HANDLE)
+[![Medium](https://img.shields.io/badge/Medium-0d0d0d?style=for-the-badge&logo=medium&logoColor=DA2828)](https://medium.com/@YOUR-MEDIUM-HANDLE)
 </div>
 
 <br/>
@@ -192,47 +191,12 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 
 <br/>
 
-<details>
-<summary><b>🐍 Enable the contribution snake (one-time setup)</b></summary>
+
 <br/>
 ### I'm listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.ZONNYXXD.com/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2ecbff&bar_color_cover=false)](https://github.com/ZONNYXXD/spotify-github-profile)
 
-The snake graph below stays empty until you add this workflow to a repo named `ZONNYXXD`, at `.github/workflows/snake.yml`:
-
-```yaml
-name: generate contribution snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ZONNYXXD
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Once the Action runs once, the image below lights up on its own.
-
-</details>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/ZONNYXXD/ZONNYXXD/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -249,9 +213,7 @@ Once the Action runs once, the image below lights up on its own.
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=DA2828)](https://instagram.com/YOUR-INSTAGRAM-HANDLE)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=DA2828)](https://YOUR-THM-URL)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=DA2828)](https://YOUR-HTB-URL)
-[![HackerOne](https://img.shields.io/badge/HackerOne-0d0d0d?style=for-the-badge&logo=hackerone&logoColor=DA2828)](https://hackerone.com/YOUR-H1-HANDLE)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=DA2828)](https://bugcrowd.com/YOUR-BUGCROWD-HANDLE)
-[![Medium](https://img.shields.io/badge/Medium-0d0d0d?style=for-the-badge&logo=medium&logoColor=DA2828)](https://medium.com/@YOUR-MEDIUM-HANDLE)
+
 
 </div>
 
