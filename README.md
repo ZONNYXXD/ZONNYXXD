@@ -195,6 +195,9 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 <details>
 <summary><b>🐍 Enable the contribution snake (one-time setup)</b></summary>
 <br/>
+### I'm listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.ZONNYXXD.com/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2ecbff&bar_color_cover=false)](https://github.com/ZONNYXXD/spotify-github-profile)
 
 The snake graph below stays empty until you add this workflow to a repo named `ZONNYXXD`, at `.github/workflows/snake.yml`:
 
