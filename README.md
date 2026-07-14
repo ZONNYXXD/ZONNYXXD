@@ -55,11 +55,11 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=DA2828)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logoColor=DA2828)
-![PowerShell Empire](https://img.shields.io/badge/PowerShell%20Empire-0d0d0d?style=for-the-badge&logo=powershell&logoColor=DA2828)
+![PowerShell Empire](https://img.shields.io/badge/PowerShell%20Empire-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![SQLmap](https://img.shields.io/badge/SQLmap-0d0d0d?style=for-the-badge&logo=mysql&logoColor=DA2828)
-![Hydra](https://img.shields.io/badge/Hydra-0d0d0d?style=for-the-badge&logo=thehive&logoColor=DA2828)
+![Hydra](https://img.shields.io/badge/Hydra-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Hashcat](https://img.shields.io/badge/Hashcat-0d0d0d?style=for-the-badge&logoColor=DA2828)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-0d0d0d?style=for-the-badge&logo=gnupg&logoColor=DA2828)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-0d0d0d?style=for-the-badge&logo=gnuprivacyguard&logoColor=DA2828)
 ![Crunch](https://img.shields.io/badge/Crunch-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Netcat](https://img.shields.io/badge/Netcat-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=DA2828)
@@ -74,7 +74,7 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 
 ![Subfinder](https://img.shields.io/badge/Subfinder-0d0d0d?style=for-the-badge&logo=go&logoColor=DA2828)
 ![Httpx](https://img.shields.io/badge/Httpx-0d0d0d?style=for-the-badge&logo=go&logoColor=DA2828)
-![Shodan](https://img.shields.io/badge/Shodan-0d0d0d?style=for-the-badge&logo=shodan&logoColor=DA2828)
+![Shodan](https://img.shields.io/badge/Shodan-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **📶 Wireless**
@@ -116,11 +116,11 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=DA2828)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=DA2828)
-![PowerShell](https://img.shields.io/badge/PowerShell-0d0d0d?style=for-the-badge&logo=powershell&logoColor=DA2828)
-![CMD](https://img.shields.io/badge/CMD-0d0d0d?style=for-the-badge&logo=windowsterminal&logoColor=DA2828)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![CMD](https://img.shields.io/badge/CMD-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=DA2828)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=DA2828)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=DA2828)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Antigravity](https://img.shields.io/badge/Antigravity-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🛰️ Blue Team & Monitoring**
@@ -189,17 +189,12 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 <img src="https://github-profile-trophy.vercel.app/?username=ZONNYXXD&theme=darkhub&no-frame=true&row=2&column=4&margin-w=8&margin-h=8"/>
 </div>
 
-<br/>
-
-
-<br/>
-### I'm listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.ZONNYXXD.com/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=2ecbff&bar_color_cover=false)](https://github.com/ZONNYXXD/spotify-github-profile)
-
+### 🎧 I'm listening to:
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ZONNYXXD/ZONNYXXD/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR-SPOTIFY-UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=DA2828&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 <br/>
@@ -208,12 +203,11 @@ I'm **Sony Silvera**, known across the underground and the reports I file as **Z
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=DA2828)](https://YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logoColor=DA2828)](https://YOUR-LINKEDIN-URL)
 [![X](https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=DA2828)](https://x.com/YOUR-X-HANDLE)
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=DA2828)](https://instagram.com/YOUR-INSTAGRAM-HANDLE)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=DA2828)](https://YOUR-THM-URL)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=DA2828)](https://YOUR-HTB-URL)
-
 
 </div>
 
