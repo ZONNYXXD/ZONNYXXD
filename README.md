@@ -65,20 +65,48 @@ I'm **Zonny Silvera**, known across the underground and the reports I file as **
 
 <div align="center">
 
-**⚔️ Offense & Exploitation**
+**⚔️ Offense, Exploitation & C2**
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=DA2828)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![PowerShell Empire](https://img.shields.io/badge/PowerShell%20Empire-0d0d0d?style=for-the-badge&logo=powershell&logoColor=DA2828)
 ![SQLmap](https://img.shields.io/badge/SQLmap-0d0d0d?style=for-the-badge&logo=mysql&logoColor=DA2828)
 ![Hydra](https://img.shields.io/badge/Hydra-0d0d0d?style=for-the-badge&logo=thehive&logoColor=DA2828)
+![Hashcat](https://img.shields.io/badge/Hashcat-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-0d0d0d?style=for-the-badge&logo=gnupg&logoColor=DA2828)
+![Crunch](https://img.shields.io/badge/Crunch-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Netcat](https://img.shields.io/badge/Netcat-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=DA2828)
 ![Nikto](https://img.shields.io/badge/Nikto-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![ffuf](https://img.shields.io/badge/ffuf-0d0d0d?style=for-the-badge&logo=go&logoColor=DA2828)
 ![Gobuster](https://img.shields.io/badge/Gobuster-0d0d0d?style=for-the-badge&logo=go&logoColor=DA2828)
 ![Dirsearch](https://img.shields.io/badge/Dirsearch-0d0d0d?style=for-the-badge&logo=python&logoColor=DA2828)
 ![Amass](https://img.shields.io/badge/Amass-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logoColor=DA2828)
+
+**🔎 Recon & OSINT**
+
+![Subfinder](https://img.shields.io/badge/Subfinder-0d0d0d?style=for-the-badge&logo=go&logoColor=DA2828)
+![Httpx](https://img.shields.io/badge/Httpx-0d0d0d?style=for-the-badge&logo=go&logoColor=DA2828)
+![Shodan](https://img.shields.io/badge/Shodan-0d0d0d?style=for-the-badge&logo=shodan&logoColor=DA2828)
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-0d0d0d?style=for-the-badge&logoColor=DA2828)
+
+**📶 Wireless**
+
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![Wifite](https://img.shields.io/badge/Wifite-0d0d0d?style=for-the-badge&logoColor=DA2828)
+
+**📱 Mobile & Reverse Engineering**
+
+![APK Tool](https://img.shields.io/badge/APK%20Tool-0d0d0d?style=for-the-badge&logo=android&logoColor=DA2828)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=DA2828)
+![YARA](https://img.shields.io/badge/YARA-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![Detect It Easy](https://img.shields.io/badge/Detect%20It%20Easy-0d0d0d?style=for-the-badge&logoColor=DA2828)
+
+**🎮 Game Security & Anti-Cheat Research**
+
+![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![Ocean AntiCheat](https://img.shields.io/badge/Ocean%20AntiCheat-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🔩 Hardware & Firmware**
 
@@ -102,9 +130,12 @@ I'm **Zonny Silvera**, known across the underground and the reports I file as **
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=DA2828)
 ![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=DA2828)
+![PowerShell](https://img.shields.io/badge/PowerShell-0d0d0d?style=for-the-badge&logo=powershell&logoColor=DA2828)
+![CMD](https://img.shields.io/badge/CMD-0d0d0d?style=for-the-badge&logo=windowsterminal&logoColor=DA2828)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=DA2828)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=DA2828)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=DA2828)
+![Antigravity](https://img.shields.io/badge/Antigravity-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🛰️ Blue Team & Monitoring**
 
@@ -117,8 +148,32 @@ I'm **Zonny Silvera**, known across the underground and the reports I file as **
 **📝 Bug Bounty & Reporting**
 
 ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=DA2828)
+![HackerOne](https://img.shields.io/badge/HackerOne-0d0d0d?style=for-the-badge&logo=hackerone&logoColor=DA2828)
+![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=DA2828)
 ![Medium](https://img.shields.io/badge/Medium%20Writeups-0d0d0d?style=for-the-badge&logo=medium&logoColor=DA2828)
+![Obsidian](https://img.shields.io/badge/Obsidian-0d0d0d?style=for-the-badge&logo=obsidian&logoColor=DA2828)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-0d0d0d?style=for-the-badge&logo=github&logoColor=DA2828)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b0000,100:0d0d0d&height=3&width=100%25"/>
+</div>
+
+<br/>
+
+## 🎓 Certifications
+
+<div align="center">
+
+![CEH](https://img.shields.io/badge/CEH-8B0000?style=for-the-badge&labelColor=0d0d0d)
+![CPT](https://img.shields.io/badge/CPT-8B0000?style=for-the-badge&labelColor=0d0d0d)
+![CICSA](https://img.shields.io/badge/CICSA-8B0000?style=for-the-badge&labelColor=0d0d0d)
+![BBH](https://img.shields.io/badge/BBH-8B0000?style=for-the-badge&labelColor=0d0d0d)
+![ADCD](https://img.shields.io/badge/ADCD-8B0000?style=for-the-badge&labelColor=0d0d0d)
+![CRTI](https://img.shields.io/badge/CRTI-8B0000?style=for-the-badge&labelColor=0d0d0d)
 
 </div>
 
@@ -153,7 +208,6 @@ I'm **Zonny Silvera**, known across the underground and the reports I file as **
 
 <details>
 <summary><b>🐍 Enable the contribution snake (one-time setup)</b></summary>
-
 <br/>
 
 The snake graph below stays empty until you add this workflow to a repo named `ZONNYXXD`, at `.github/workflows/snake.yml`:
@@ -189,7 +243,6 @@ jobs:
 
 Once the Action runs once, the image below lights up on its own.
 
-</summary>
 </details>
 
 <div align="center">
@@ -207,6 +260,8 @@ Once the Action runs once, the image below lights up on its own.
 [![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=DA2828)](https://instagram.com/YOUR-INSTAGRAM-HANDLE)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=DA2828)](https://YOUR-THM-URL)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=DA2828)](https://YOUR-HTB-URL)
+[![HackerOne](https://img.shields.io/badge/HackerOne-0d0d0d?style=for-the-badge&logo=hackerone&logoColor=DA2828)](https://hackerone.com/YOUR-H1-HANDLE)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=DA2828)](https://bugcrowd.com/YOUR-BUGCROWD-HANDLE)
 [![Medium](https://img.shields.io/badge/Medium-0d0d0d?style=for-the-badge&logo=medium&logoColor=DA2828)](https://medium.com/@YOUR-MEDIUM-HANDLE)
 
 </div>
