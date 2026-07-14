@@ -1,16 +1,3 @@
-<!--
-  ============================================================================
-  ZYNCRIPTA — GITHUB PROFILE README
-  Rename this file to README.md inside a repo named exactly "ZONNYXXD"
-  (a repo matching your username is what GitHub renders on your profile page).
-
-  Placeholders to replace before pushing:
-    YOUR-LINKEDIN-URL · YOUR-X-HANDLE · YOUR-INSTAGRAM-HANDLE
-    YOUR-THM-URL · YOUR-HTB-URL · YOUR-MEDIUM-HANDLE · YOUR-EMAIL
-  The snake graph near the bottom needs a one-time GitHub Action —
-  instructions are in the collapsible section, don't skip it.
-  ============================================================================
--->
 
 <div align="center">
 
@@ -18,7 +5,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FZONNYXXD&label=INTRUDERS%20LOGGED&labelColor=%230d0d0d&countColor=%23DA2828&style=flat-square" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=230&section=header&text=ZYNCRIPTA&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=ZONNY.SILVERA%20%E2%80%94%20VPD%20PROGRAMMER%20%C2%B7%20HARDWARE%20HACKER%20%C2%B7%20EXPLOIT%20DEV%20%C2%B7%20VAPT%20REPORTER&descAlignY=57&descSize=15&descColor=ff7373" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=230&section=header&text=ZYNCRIPTA&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=SONY.SILVERA%20%E2%80%94%20VPD%20PROGRAMMER%20%C2%B7%20HARDWARE%20HACKER%20%C2%B7%20EXPLOIT%20DEV%20%C2%B7%20VAPT%20REPORTER&descAlignY=57&descSize=15&descColor=ff7373" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=FF073A&center=true&vCenter=true&width=780&lines=Grey+hat+curiosity.+White+hat+conscience.;I+break+it.+I+prove+it.+I+write+the+fix.;Hardware+doesn%27t+lie.+People+do." alt="typing-svg" />
 
@@ -44,9 +31,9 @@
 
 <br/>
 
-## 🩸 About Zonny
+## 🩸 About Me
 
-I'm **Zonny Silvera**, known across the underground and the reports I file as **Zyncripta**. I don't sit neatly on one side of the hat spectrum — I think like an attacker so the fix I hand back actually holds.
+I'm **Sony Silvera**, known across the underground and the reports I file as **Zyncripta**. I don't sit neatly on one side of the hat spectrum — I think like an attacker so the fix I hand back actually holds.
 
 - 🔧 **VPD Programmer** — I build and script the tooling behind my own assessments instead of relying only on off-the-shelf frameworks
 - 🔩 **Hardware Hacker** — if it has a chip, a bus, or a firmware blob, I want to know what it's not telling you
