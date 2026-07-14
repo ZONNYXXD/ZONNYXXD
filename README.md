@@ -96,17 +96,18 @@ I'm **Zonny Silvera**, known across the underground and the reports I file as **
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Wifite](https://img.shields.io/badge/Wifite-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
-**📱 Mobile & Reverse Engineering**
+**Reverse Engineering**
 
 ![APK Tool](https://img.shields.io/badge/APK%20Tool-0d0d0d?style=for-the-badge&logo=android&logoColor=DA2828)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0d0d0d?style=for-the-badge&logo=androidstudio&logoColor=DA2828)
 ![YARA](https://img.shields.io/badge/YARA-0d0d0d?style=for-the-badge&logoColor=DA2828)
-![Detect It Easy](https://img.shields.io/badge/Detect%20It%20Easy-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🎮 Game Security & Anti-Cheat Research**
 
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-0d0d0d?style=for-the-badge&logoColor=DA2828)
 ![Ocean AntiCheat](https://img.shields.io/badge/Ocean%20AntiCheat-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![Detect It Easy](https://img.shields.io/badge/Detect%20It%20Easy-0d0d0d?style=for-the-badge&logoColor=DA2828)
+![YARA](https://img.shields.io/badge/YARA-0d0d0d?style=for-the-badge&logoColor=DA2828)
 
 **🔩 Hardware & Firmware**
 
