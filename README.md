@@ -25,7 +25,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:0d0d0d&height=230&section=header&text=ZYNCRIPTA&fontSize=62&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=ZONNY.SILVERA%20%E2%80%94%20VPD%20PROGRAMMER%20%C2%B7%20HARDWARE%20HACKER%20%C2%B7%20EXPLOIT%20DEV%20%C2%B7%20VAPT%20REPORTER&descAlignY=57&descSize=15&descColor=ff7373" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=3000&pause=997&color=F70000&center=true&vCenter=true&width=1000&height=80&lines=CYBERSECURITY+PROFESSIONAL;BUG+BOUNTY+HUNTER;SYSTEM+SECURITY+ANALYST;ANTI-CHEAT+%2F+GAME+SECURITY+RESEARCHER;REVERSE+ENGINEER;CYBERSECURITY+EDUCATOR)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=50&duration=3000&pause=997&color=F70000&center=true&width=1000&height=200&lines=CYBERSECURITY+PROFFECTIONALIST;BUG+BOUNTY+HUNTER;SYSTEM+SECURITY+ANALYST;PC+CHECKER+FOR+CHEATS;REVERSE+ENGINEER;CYBERSECURITY+EDUCATOR)](https://git.io/typing-svg)
 
 <br/>
 
