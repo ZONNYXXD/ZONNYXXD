@@ -12,8 +12,7 @@
   ║  [ ] YOUR-INSTAGRAM-HANDLE        → your Instagram handle          ║
   ║  [ ] YOUR-THM-URL                 → your TryHackMe profile URL     ║
   ║  [ ] YOUR-HTB-URL                 → your HackTheBox profile URL    ║
-  ║  [ ] YOUR-SPOTIFY-UID             → see Spotify note near the      ║
-  ║                                      bottom of this file           ║
+  ║  [x] Spotify UID                  → done                           ║
   ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -265,13 +264,9 @@ const zyncripta = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR-SPOTIFY-UID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=DA2828&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ku3ifjvbdcc42qc4y6lkeloc4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=00fffb&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ku3ifjvbdcc42qc4y6lkeloc4e&redirect=true)
 
 </div>
-
-> **Note on the Spotify widget:** this one won't render until you connect your own account. Go to the
-> [spotify-github-profile](https://github.com/kittinan/spotify-github-profile) repo, click **"Connect with Spotify"**,
-> grant permission, and it will hand you your real `uid` to drop into the URL above in place of `YOUR-SPOTIFY-UID`.
 
 <br/>
 
